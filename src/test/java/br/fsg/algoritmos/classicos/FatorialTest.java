@@ -1,8 +1,10 @@
-package br.fsg.algoritmos.calculo;
+package br.fsg.algoritmos.classicos;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import br.fsg.algoritmos.classicos.Fatorial;
 
 public class FatorialTest {
 

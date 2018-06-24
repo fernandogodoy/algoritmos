@@ -1,4 +1,4 @@
-package br.fsg.algoritmos.calculo;
+package br.fsg.algoritmos.classicos;
 
 public class Fatorial {
 
