@@ -1,3 +1,3 @@
 # algoritmos
 
-Projeto contendo implementação de exemplo para alguns algoritmos clássicos
+Projeto contendo implementação de exemplos para alguns algoritmos clássicos
