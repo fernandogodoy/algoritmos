@@ -4,19 +4,19 @@ Projeto contendo implementação de exemplos para alguns algoritmos clássicos
 
 ## Ordenação
 
-#### BubbleSort
-#### HeapSort
-#### InsertionSort
-#### MergeSort
-#### QuickSort
-#### SelectionSort
+    - BubbleSort
+    - HeapSort
+    - InsertionSort
+    - MergeSort
+    - QuickSort
+    - SelectionSort
 
 ## Busca
 
-#### BinarySearch
-#### LinearSearch
+    - BinarySearch
+    - LinearSearch
 
 ## Clássicos
 
-#### Fatorial
-#### Fibonacci
+    - Fatorial
+    - Fibonacci
