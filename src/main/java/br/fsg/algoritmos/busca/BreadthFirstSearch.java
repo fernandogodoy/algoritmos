@@ -3,13 +3,14 @@ package br.fsg.algoritmos.busca;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class BreadthFirstSearch implements Searcheable {
+public class BreadthFirstSearch implements GraphSearcheable {
 
 	/**
 	 * Busca um vertice em largura a partir de start usando listas de adjacencia.
 	 * Os vertices sao os indices de graph e cada linha contem seus vizinhos.
 	 * Retorna o vertice encontrado ou -1 se ele nao for alcancavel.
 	 */
+	@Override
 	public int search(int[][] graph, int start, int value) {
 		if (graph.length == 0) {
 			return -1;
