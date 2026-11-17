@@ -3,7 +3,7 @@ package br.fsg.algoritmos.busca;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class DepthFirstSearch implements GraphSearcheable {
+public class DepthFirstSearch implements Searcheable {
 
 	/**
 	 * Busca um vertice a partir de start usando listas de adjacencia.
