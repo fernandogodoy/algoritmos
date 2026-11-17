@@ -3,7 +3,7 @@ package br.fsg.algoritmos.busca;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class BreadthFirstSearch {
+public class BreadthFirstSearch implements Searcheable {
 
 	/**
 	 * Busca um vertice em largura a partir de start usando listas de adjacencia.
